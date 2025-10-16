@@ -383,6 +383,28 @@
   font-size: 1.2rem;
 }
 
+.project-note {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  background: rgba(118, 80, 255, 0.15);
+  border: 2px solid #7650ff;
+  border-radius: 8px;
+  color: #7650ff;
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+.project-note i {
+  font-size: 1.2rem;
+}
+
+.project-note strong {
+  color: #7c50ff;
+}
+
 /* Status Badge */
 .status-badge {
   display: inline-block;
