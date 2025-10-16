@@ -203,6 +203,8 @@ nav, .nav-links {
 }
 .btn-box a:nth-child(2) {
     background: transparent;
+    margin-left: 6px;
+    margin-right: 6px;
     color: #7650ff;
 }
 
